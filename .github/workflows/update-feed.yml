@@ -23,7 +23,7 @@ jobs:
           python-version: "3.12"
 
       - name: Converter XML Vista para XML Meta
-        run: python scripts/convert_vista_to_meta.py
+        run: python roteiros/convert_vista_to_meta.py
         env:
           SOURCE_XML_URL: "https://thaisred-portais.vistahost.com.br/36ac72a03c01d6eab2a640de018e5a71"
           PROPERTY_BASE_URL: "https://thaisimobiliaria.com.br/imovel"
@@ -32,4 +32,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Atualiza feed Meta automático"
-          file_pattern: docs/feed-meta.xml docs/index.html
+          file_pattern: documentos/feed-meta.xml
