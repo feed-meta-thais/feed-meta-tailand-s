@@ -3,9 +3,7 @@ name: Atualizar feed Meta
 on:
   workflow_dispatch:
   schedule:
-    # 02:00 UTC = 23:00 em Brasília/São Paulo (UTC-3).
-    # Roda diariamente depois da atualização da Vista às 18h30.
-    - cron: "00 02 * * *"
+    - cron: "00 02 * * *" # 23h no horário de Brasília
 
 permissions:
   contents: write
@@ -13,6 +11,7 @@ permissions:
 jobs:
   update-feed:
     runs-on: ubuntu-latest
+
     steps:
       - name: Baixar repositório
         uses: actions/checkout@v4
@@ -26,7 +25,7 @@ jobs:
         run: ls -R
 
       - name: Converter XML Vista para XML Meta
-        run: python roteiros/convert_vista_to_meta.py
+        run: python scripts/convert_vista_to_meta.py
         env:
           SOURCE_XML_URL: "https://thaisred-portais.vistahost.com.br/36ac72a03c01d6eab2a640de018e5a71"
           PROPERTY_BASE_URL: "https://thaisimobiliaria.com.br/imovel"
@@ -35,4 +34,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Atualiza feed Meta automático"
-          file_pattern: documentos/feed-meta.xml
+          file_pattern: docs/feed-meta.xml
