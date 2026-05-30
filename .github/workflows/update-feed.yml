@@ -22,7 +22,7 @@ jobs:
         with:
           python-version: "3.12"
 
-           - name: Listar arquivos
+      - name: Listar arquivos
         run: ls -R
 
       - name: Converter XML Vista para XML Meta
