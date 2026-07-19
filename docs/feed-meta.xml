@@ -631,7 +631,7 @@ Localizado na Avenida Sibipiruna no condomínio Smart Residence Service. O Imóv
 01 vaga de garagem coberta.
 
 Condomínio possui elevador, playground, churrasqueira, piscina, academia, salão de festas, quadra de esportes, bicicletário, home cinema, sauna, guarita com segurança, segurança/portaria 24h, cftv.</description>
-    <price>360000.00 BRL</price>
+    <price>350000.00 BRL</price>
     <address format="simple">
       <component name="addr1">2204</component>
       <component name="city">Águas Claras</component>
@@ -85228,6 +85228,9 @@ Ligue agora e agende sua visita!</description>
   </listing>
   <listing>
     <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/27789/is7x2w_2778967c0e824aab75.jpg</url>
+    </image>
+    <image>
       <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/27789/id0i0z_2778967c0e824326d9.jpg</url>
     </image>
     <image>
@@ -85247,9 +85250,6 @@ Ligue agora e agende sua visita!</description>
     </image>
     <image>
       <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/27789/ik8o6p_2778967c0e823e98af.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/27789/is7x2w_2778967c0e824aab75.jpg</url>
     </image>
     <image>
       <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/27789/ic6n2z_2778967c0e8244bd05.jpg</url>
