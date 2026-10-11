@@ -146,7 +146,7 @@ Aceita utilização do FGTS
 Uma excelente opção para quem procura praticidade, comodidade e facilidade de acesso aos serviços essenciais em Samambaia Sul!
 
  Entre em contato para mais informações e agende uma visita!</description>
-    <price>360000.00 BRL</price>
+    <price>370000.00 BRL</price>
     <address format="simple">
       <component name="addr1">702</component>
       <component name="city">Samambaia</component>
@@ -158,6 +158,77 @@ Uma excelente opção para quem procura praticidade, comodidade e facilidade de 
     <num_beds>2</num_beds>
     <num_baths>1</num_baths>
     <product_tags>Apartamento</product_tags>
+    <product_tags>for_sale_by_agent</product_tags>
+    <product_tags>2 quartos</product_tags>
+  </listing>
+  <listing>
+    <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/90104/i41K9fwv5Zx4k83rt8_901046aca2119ebcbd.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/90104/i41K9fwv5Zx4k83rt8_901046aca211d47521.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/90104/i41K9fwv5Zx4k83rt8_901046aca21206c73f.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/90104/i41K9fwv5Zx4k83rt8_901046aca21233da1f.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/90104/i41K9fwv5Zx4k83rt8_901046aca23245204e.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/90104/i41K9fwv5Zx4k83rt8_901046aca2326ad1d6.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/90104/i41K9fwv5Zx4k83rt8_901046aca2329c5849.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/90104/i41K9fwv5Zx4k83rt8_901046aca232c9e23c.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/90104/i41K9fwv5Zx4k83rt8_901046aca2330be1f9.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/90104/i41K9fwv5Zx4k83rt8_901046aca23339eb83.jpg</url>
+    </image>
+    <home_listing_id>TH36320</home_listing_id>
+    <availability>for_sale</availability>
+    <listing_type>for_sale_by_agent</listing_type>
+    <property_type>house</property_type>
+    <url>https://thaisimobiliaria.com.br/imovel/TH36320</url>
+    <name>Quadra 405 | Casa 02 Quartos - Sala - Banheiro Social e Cozinha | Recanto das Emas</name>
+    <description>Quadra 405 | Casa 02 Quartos - Sala - Banheiro Social e Cozinha | Recanto das Emas
+
+Casa com 2 quartos na Quadra 405!
+
+Excelente opção para quem busca conforto e praticidade para a família.
+
+ O imóvel conta com:
+
+ Sala
+ 02 quartos
+ Banheiro social
+ Cozinha
+ Área nos fundos
+ Garagem coberta
+ Localização: Quadra 405 - Recanto das Emas/DF.
+
+ Entre em contato para mais informações e agende sua visita!
+
+ Não perca essa oportunidade de encontrar seu novo lar!</description>
+    <price>150000.00 BRL</price>
+    <address format="simple">
+      <component name="addr1">Recanto das Emas</component>
+      <component name="city">Recanto das Emas</component>
+      <component name="region">DF</component>
+      <component name="postal_code">72631124</component>
+      <component name="country">Brasil</component>
+    </address>
+    <neighborhood>Recanto das Emas</neighborhood>
+    <num_beds>2</num_beds>
+    <num_baths>1</num_baths>
+    <product_tags>Casa</product_tags>
     <product_tags>for_sale_by_agent</product_tags>
     <product_tags>2 quartos</product_tags>
   </listing>
@@ -606,7 +677,34 @@ Qualquer dúvida estamos a disposição também em nosso WhatsApp (61) 3031-2200
   </listing>
   <listing>
     <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/90082/iM219DMDu377F_900826ac8da1add99b.jpg</url>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/90082/iGO37eGM9t5Q22j5_900826aca4b2c0168c.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/90082/iGO37eGM9t5Q22j5_900826aca4b2e7f654.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/90082/iGO37eGM9t5Q22j5_900826aca4b30e0798.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/90082/iGO37eGM9t5Q22j5_900826aca4b33122c1.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/90082/iGO37eGM9t5Q22j5_900826aca4b353639a.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/90082/iGO37eGM9t5Q22j5_900826aca4b37a3f43.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/90082/iGO37eGM9t5Q22j5_900826aca4b39a7b53.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/90082/iGO37eGM9t5Q22j5_900826aca4b3c0c5e1.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/90082/iGO37eGM9t5Q22j5_900826aca4b3e5a596.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/90082/iGO37eGM9t5Q22j5_900826aca4b408fab7.jpg</url>
     </image>
     <home_listing_id>TH36310</home_listing_id>
     <availability>for_sale</availability>
@@ -1753,6 +1851,69 @@ Uma excelente oportunidade para morar ou investir em uma das regiões mais desej
     <product_tags>Apartamento</product_tags>
     <product_tags>for_sale_by_agent</product_tags>
     <product_tags>2 quartos</product_tags>
+  </listing>
+  <listing>
+    <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/90031/ioSmEd8F44E8Kkd6gR546_900316ac62de71f006.jpg</url>
+    </image>
+    <home_listing_id>TH36289</home_listing_id>
+    <availability>for_sale</availability>
+    <listing_type>for_sale_by_agent</listing_type>
+    <property_type>apartment</property_type>
+    <url>https://thaisimobiliaria.com.br/imovel/TH36289</url>
+    <name>SHA 5 | Casa de Alto padrão em condomínio fechado | Residencial Caliandra - Arniqueira</name>
+    <description>SHA 5 | Casa de Alto padrão em condomínio fechado com Piscina e Área Gourmet | Residencial Caliandra - Arniqueira
+
+Conforto, sofisticação e muito verde em um condomínio fechado e arborizado. Uma casa térrea aconchegante, com ambientes amplos, acabamento de linha premium e uma excelente área de lazer para aproveitar bons momentos em confraternização com a família. 
+
+Descrição do imóvel:
+
+- Sala integrada à cozinha;
+- Cozinha americana com armários planejados e coifa;
+- 3 suítes;
+- Suíte master com espaço para closet;
+- Pé-direito 4m² na sala;
+- Lavanderia ampla;
+- 4 Banheiros sendo 1 social e 3 das suítes;
+- 3 vagas de garagem coberta;
+- Área gourmet com churrasqueira, bancada com pia, armários planejados e 2 lavabos;
+- Piscina aquecida;
+
+Diferenciais do imóvel:
+
+- 435m² de lote;
+- Aproximadamente 260m² de área construída;
+- Condomínio fechado, arborizado e tranquilo;
+- Cozinha americana com armários planejados;
+- Piscina aquecida;
+- Área gourmet com armários planejados;
+- 2 lavabos de apoio à área gourmet;
+- Ambientes amplos e muito bem distribuídos;
+- Excelente área externa com muito verde.
+
+Condições de pagamento:
+
+- Não aceita financiamento;
+- Estuda permuta por imóvel e ou veículo até 50% do valor do imóvel, mediante avaliação e aprovação do proprietário. 
+
+A área do imóvel anunciado é uma estimativa e deverá ser confirmada junto à certidão de ônus do imóvel ou cessão de direitos, se não se tratar de bem a ser vendido como coisa certa e iscriminada, bem como eventual vaga de garagem anunciada que deverá ser confirmada, pois se trata de vaga vinculada, área comum ou estacionamento público cercado.
+
+Plantão de atendimento. 
+Ligue agora e agende sua visita!</description>
+    <price>1190000.00 BRL</price>
+    <address format="simple">
+      <component name="addr1">Chacara 37 8B</component>
+      <component name="city">Águas Claras</component>
+      <component name="region">DF</component>
+      <component name="postal_code">71995245</component>
+      <component name="country">Brasil</component>
+    </address>
+    <neighborhood>Águas Claras</neighborhood>
+    <num_beds>3</num_beds>
+    <num_baths>3</num_baths>
+    <product_tags>Casa Condominio</product_tags>
+    <product_tags>for_sale_by_agent</product_tags>
+    <product_tags>3 quartos</product_tags>
   </listing>
   <listing>
     <image>
@@ -14501,7 +14662,7 @@ Um imóvel que reúne localização, comodidade, lazer e praticidade, ideal para
 Aceita financiamento e FGTS!
 
  Plantão de atendimento. Ligue agora e agende sua visita!</description>
-    <price>620000.00 BRL</price>
+    <price>590000.00 BRL</price>
     <address format="simple">
       <component name="addr1">Residência de Espanha</component>
       <component name="city">Águas Claras</component>
@@ -17489,8 +17650,9 @@ Qualquer dúvida estamos a disposição também em nosso Whatsapp (61) 3031-2200
     <listing_type>for_sale_by_agent</listing_type>
     <property_type>apartment</property_type>
     <url>https://thaisimobiliaria.com.br/imovel/TH35950</url>
-    <name>Rua 36 norte - Top Life Club Residence condomínio Punta Del Leste | Apartamento 2 Quartos - 2 Vagas | Águas Claras</name>
-    <description>Rua 36 norte - Top Life Club Residence condomínio Punta Del Leste | Apartamento 2 Quartos - 2 Vagas | Águas Claras
+    <name>Rua 36 norte Top Life Club Residence condomínio Punta Del Leste | Apartamento 2 Quartos sendo 2 Suítes - Aceita Financiamento e FGTS - com 2 Vagas de Garagem | Águas Claras</name>
+    <description>Rua 36 norte Top Life Club Residence condomínio Punta Del Leste | Apartamento 2 Quartos sendo 2 Suítes - Aceita Financiamento e FGTS - com 2 Vagas de Garagem | Águas Claras
+
 Bloco J 
 Andar Alto!
 
@@ -17781,85 +17943,6 @@ Ligue agora e agende sua visita!</description>
     <product_tags>Casa</product_tags>
     <product_tags>for_sale_by_agent</product_tags>
     <product_tags>3 quartos</product_tags>
-  </listing>
-  <listing>
-    <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/89310/i81ANk_893106a95757254a8e.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/89310/i81ANk_893106a95757464356.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/89310/i81ANk_893106a95757690efe.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/89310/i81ANk_893106a957592a1649.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/89310/i81ANk_893106a95759080fae.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/89310/i81ANk_893106a95756f96a41.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/89310/i81ANk_893106a9575633d017.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/89310/i81ANk_893106a957565be730.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/89310/i81ANk_893106a95755c09e5b.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/89310/i81ANk_893106a95755961d10.jpg</url>
-    </image>
-    <home_listing_id>TH35945</home_listing_id>
-    <availability>for_rent</availability>
-    <listing_type>for_rent</listing_type>
-    <property_type>apartment</property_type>
-    <url>https://thaisimobiliaria.com.br/imovel/TH35945</url>
-    <name>Eptg Qe 02 Lúcio Costa/Guará - Res. Villa Provence, Apartamento Duplex 02 quartos, 64m². Agende sua visita!</name>
-    <description>Eptg Qe 02 Lúcio Costa/Guará - Res. Villa Provence, Apartamento Duplex 02 quartos, 64m². Agende sua visita!  
-
-Imóvel composto por sala com painel, espelho e cristaleira, banheiro social com armário, espelho e box em vidro temperado, cozinha com armários planejados, coifa, cooktop e bancada e área de serviço.
-Primeiro piso: 02 quartos com armários planejados e ar condicionado sendo um com closet.
-
- - 01 VAGA DE GARAGEM coberta 
- - Aceita Pet
-
-Condomínio possui elevador, cftv, condomínio pay per use.
-
-Próximo ao comércio local, ponto de ônibus, escola, hospital, supermercado, restaurante, estacionamento público, farmácia, delegacia. 
- 
-Informações importantes: 
- 
-1) O preço anunciado corresponde ao valor do aluguel mensal líquido e é válido para os pagamentos realizados até o vencimento. A título de análise e em contrato, ao valor do aluguel líquido é acrescido 10%, correspondente à perda do desconto de pontualidade, quando o pagamento ocorre após o vencimento; 
- 
-2) O valor de condomínio informado no anúncio refere-se à taxa condominial ordinária e poderá sofrer alterações, devendo o candidato à locação confirmar o valor atualizado junto à administração do condomínio; 
- 
-3) O IPTU é cobrado do locatário e será calculado proporcionalmente ao período de uso do imóvel; 
- 
-4) A contratação do seguro incêndio é obrigatória e cobrada no início da vigência e a cada aniversário contratual. Consulte condições junto à imobiliária; 
- 
-5) Antes de se deslocar até a imobiliária, certifique-se de que as chaves não estão emprestadas; 
- 
-6) Verificar previamente se o proprietário do imóvel aceita animais de estimação. Esta informação virá em contrato, estando o inquilino sujeito à penalizações em caso de descumprimento do acordado. 
- 
-Qualquer dúvida estamos a disposição também em nosso Whatsapp (61) 3031-2200.</description>
-    <price>3100.00 BRL</price>
-    <address format="simple">
-      <component name="addr1">Apto 412</component>
-      <component name="city">Guará</component>
-      <component name="region">DF</component>
-      <component name="postal_code">71100084</component>
-      <component name="country">Brasil</component>
-    </address>
-    <neighborhood>Guará</neighborhood>
-    <num_beds>2</num_beds>
-    <num_baths>1</num_baths>
-    <product_tags>Apartamento</product_tags>
-    <product_tags>for_rent</product_tags>
-    <product_tags>2 quartos</product_tags>
   </listing>
   <listing>
     <image>
@@ -29515,6 +29598,84 @@ Ligue agora e agende sua visita!</description>
   </listing>
   <listing>
     <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/88582/iLnPAf2i82WzJxu1_885826ab66f07ce039.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/88582/iLnPAf2i82WzJxu1_885826ab66f1857f76.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/88582/iLnPAf2i82WzJxu1_885826ab66f0a51f77.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/88582/iLnPAf2i82WzJxu1_885826ab66f15afbfd.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/88582/iLnPAf2i82WzJxu1_885826ab66f0c39cff.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/88582/iLnPAf2i82WzJxu1_885826ab66f0e813bf.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/88582/iLnPAf2i82WzJxu1_885826ab66f112a4b7.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/88582/iLnPAf2i82WzJxu1_885826ab66f13c58b5.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/88582/iLnPAf2i82WzJxu1_885826ab66f1a8fb0c.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/88582/iLnPAf2i82WzJxu1_885826ab66f232eb5b.jpg</url>
+    </image>
+    <home_listing_id>TH35625</home_listing_id>
+    <availability>for_rent</availability>
+    <listing_type>for_rent</listing_type>
+    <property_type>apartment</property_type>
+    <url>https://thaisimobiliaria.com.br/imovel/TH35625</url>
+    <name>Rua 34 Norte Águas Claras - Res. Real Flat, Apartamento 02 quartos, 52m². Agende sua visita!</name>
+    <description>Rua 34 Norte Águas Claras - Res. Real Flat, Apartamento 02 quartos, 52m². Agende sua visita!  
+
+Imóvel composto por sala para dois ambientes com persiana, painel e rack, 02 quartos com guarda roupa planejado e persianas, banheiro social com armário, espelho e box em vidro temperado, cozinha com armários planejados. 
+
+ - 01 VAGA DE GARAGEM coberta 
+ - Não aceita Pet
+
+Condomínio possui academia, brinquedoteca, elevador, playground, cftv, guarita com segurança, condomínio pay per use, segurança/portaria 24h, salão de festas.
+
+Próximo ao comércio local, ponto de ônibus, escola, hospital, supermercado, restaurante, estacionamento público, farmácia, delegacia. 
+ 
+Informações importantes: 
+ 
+1) O preço anunciado corresponde ao valor do aluguel mensal líquido e é válido para os pagamentos realizados até o vencimento. A título de análise e em contrato, ao valor do aluguel líquido é acrescido 10%, correspondente à perda do desconto de pontualidade, quando o pagamento ocorre após o vencimento; 
+ 
+2) Os valores de taxas condominiais podem sofrer alteração e devem ser confirmados pelo candidato à locação junto à administração do condomínio; 
+ 
+3) O IPTU é cobrado do locatário e será calculado proporcionalmente ao período de uso do imóvel; 
+ 
+4) A contratação do seguro incêndio é obrigatória e cobrada no início da vigência e a cada aniversário contratual. Consulte condições junto à imobiliária; 
+ 
+5) Antes de se deslocar até a imobiliária, certifique-se de que as chaves não estão emprestadas; 
+ 
+6) Verificar previamente se o proprietário do imóvel aceita animais de estimação. Esta informação virá em contrato, estando o inquilino sujeito à penalizações em caso de descumprimento do acordado. 
+ 
+Qualquer dúvida estamos a disposição também em nosso whatsapp (61) 3031-2200.</description>
+    <price>2300.00 BRL</price>
+    <address format="simple">
+      <component name="addr1">Apto 1016</component>
+      <component name="city">Águas Claras</component>
+      <component name="region">DF</component>
+      <component name="postal_code">71918720</component>
+      <component name="country">Brasil</component>
+    </address>
+    <neighborhood>Águas Claras</neighborhood>
+    <num_beds>2</num_beds>
+    <num_baths>1</num_baths>
+    <product_tags>Apartamento</product_tags>
+    <product_tags>for_rent</product_tags>
+    <product_tags>2 quartos</product_tags>
+  </listing>
+  <listing>
+    <image>
       <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/88577/iJsh2n6K_885776a6c9f59ace1a.jpg</url>
     </image>
     <image>
@@ -37371,7 +37532,7 @@ A área do imóvel anunciado é uma estimativa e deverá ser confirmada junto à
   
 Plantão de atendimento  
 Ligue agora e agende sua visita!</description>
-    <price>1250000.00 BRL</price>
+    <price>1065000.00 BRL</price>
     <address format="simple">
       <component name="addr1">Taguatinga</component>
       <component name="city">Taguatinga</component>
@@ -58524,6 +58685,9 @@ Um imóvel perfeito para quem valoriza conforto, lazer e qualidade de vida!</des
   </listing>
   <listing>
     <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/79178/iE45t9R71vD57SNl2O7_791786aca530535a10.jpg</url>
+    </image>
+    <image>
       <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/79178/iYE58pj688v96_7917868fa8f9dde48f.jpg</url>
     </image>
     <image>
@@ -58549,9 +58713,6 @@ Um imóvel perfeito para quem valoriza conforto, lazer e qualidade de vida!</des
     </image>
     <image>
       <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/79178/iYE58pj688v96_7917868fa8fab31811.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/79178/iYE58pj688v96_7917868fa8fadac6f7.jpg</url>
     </image>
     <home_listing_id>TH33862</home_listing_id>
     <availability>for_sale</availability>
@@ -90017,83 +90178,6 @@ Ligue agora e agende sua visita!</description>
   </listing>
   <listing>
     <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/27785/id4u9n_2778567c0e7ce4b7fe.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/27785/iv9z0d_2778567c0e7ce593fc.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/27785/ig6r9e_2778567c0e7ce511b1.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/27785/ig7x8l_2778567c0e7ce6ec2c.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/27785/iq7o6p_2778567c0e7ce4039e.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/27785/iw2i1y_2778567c0e7ce57e42.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/27785/ir4w8k_2778567c0e7ce52fef.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/27785/im8e8w_2778567c0e7ce55d3e.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/27785/iq4y5o_2778567c0e7ce55289.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/27785/iv2k7e_2778567c0e7ce67295.jpg</url>
-    </image>
-    <home_listing_id>TH27785</home_listing_id>
-    <availability>for_rent</availability>
-    <listing_type>for_rent</listing_type>
-    <property_type>house</property_type>
-    <url>https://thaisimobiliaria.com.br/imovel/TH27785</url>
-    <name>Qr 516 Samambaia, Casa térrea, 03 quartos sendo 01 suíte, 120m². Agende sua visita!</name>
-    <description>QR 516 Samambaia, Casa térrea, 03 quartos sendo 01 suíte, 120m². Agende sua visita! 
- 
-Imóvel composto por sala com depósito, 03 quartos sendo uma suíte, banheiro suíte  e banheiro social com armário, espelho e box em vidro temperado, cozinha com armários  e área de serviço. 
- 
-- 01 VAGA DE GARAGEM coberta 
-- NÃO ACEITA PET
-- CASA NÃO É SOZINHA NO LOTE 
- 
-Próximo ao comércio local, ponto de ônibus, escola, hospital, supermercado, restaurante, estacionamento público, farmácia, delegacia. 
- 
-Informações importantes: 
- 
-1) O preço anunciado corresponde ao valor do aluguel mensal líquido e é válido para os pagamentos realizados até o vencimento. A título de análise e em contrato, ao valor do aluguel líquido é acrescido 10%, correspondente à perda do desconto de pontualidade, quando o pagamento ocorre após o vencimento; 
- 
-2) O valor de condomínio informado no anúncio refere-se à taxa condominial ordinária e poderá sofrer alterações, devendo o candidato à locação confirmar o valor atualizado junto à administração do condomínio; 
- 
-3) O IPTU é cobrado do locatário e será calculado proporcionalmente ao período de uso do imóvel; 
- 
-4) A contratação do seguro incêndio é obrigatória e cobrada no início da vigência e a cada aniversário contratual. Consulte condições junto à imobiliária; 
- 
-5) Antes de se deslocar até a imobiliária, certifique-se de que as chaves não estão emprestadas; 
- 
-6) Verificar previamente se o proprietário do imóvel aceita animais de estimação. Esta informação virá em contrato, estando o inquilino sujeito à penalizações em caso de descumprimento do acordado. 
- 
-Qualquer dúvida estamos a disposição também em nosso whatsapp (61) 3031-2200.</description>
-    <price>1950.00 BRL</price>
-    <address format="simple">
-      <component name="addr1">CASA 01</component>
-      <component name="city">Samambaia</component>
-      <component name="region">DF</component>
-      <component name="postal_code">72314318</component>
-      <component name="country">Brasil</component>
-    </address>
-    <neighborhood>Samambaia</neighborhood>
-    <num_beds>3</num_beds>
-    <num_baths>1</num_baths>
-    <product_tags>Casa</product_tags>
-    <product_tags>for_rent</product_tags>
-    <product_tags>3 quartos</product_tags>
-  </listing>
-  <listing>
-    <image>
       <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/27782/iw8b9f_2778267c0e84b6f635.jpg</url>
     </image>
     <image>
@@ -95875,6 +95959,78 @@ Ligue agora e agende sua visita!</description>
   </listing>
   <listing>
     <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/26066/ib0k2s_2606667c0e31749858.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/26066/io2m9c_2606667c0e31821c1e.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/26066/ie9z6q_2606667c0e3173ca22.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/26066/il9o0x_2606667c0e3174aa24.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/26066/iw4h3n_2606667c0e3176ac73.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/26066/it7h4f_2606667c0e31750821.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/26066/if3f9h_2606667c0e3174984f.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/26066/ir4h5n_2606667c0e31744984.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/26066/ip3n2j_2606667c0e3175f127.jpg</url>
+    </image>
+    <image>
+      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/26066/il5n9p_2606667c0e3174b963.jpg</url>
+    </image>
+    <home_listing_id>TH26066</home_listing_id>
+    <availability>for_rent</availability>
+    <listing_type>for_rent</listing_type>
+    <property_type>house</property_type>
+    <url>https://thaisimobiliaria.com.br/imovel/TH26066</url>
+    <name>Setor de Mansões Sudeste, com 05 quartos sendo 05 suítes, 416m²/ hidromassagem. IMÓVEL MOBILIADO. Agende a sua visita!</name>
+    <description>Setor de Mansões Sudeste, com 05 quartos sendo 05 suítes, 416m²/ hidromassagem. Agende a sua visita! 
+
+Imóvel composto por sala em dois ambientes com armários, varanda goumert, 05 quartos com armários sendo duas suítes e uma com hidromassagem, 03 banheiros sociais com armários, espelho e box em vidro temperado, cozinha com armários, cooktop, coifa e forno, área externa com salão de festas, churrasqueira, piscina e 02 banheiros de serviço.
+03 vagas de garagem cobertas e 04 descobertas. 
+
+OPÇÃO DE LOCAÇÃO SEM A MOBILIA R$10.000
+
+ACEITA PET. 
+
+Próximo ao comércio local, ponto de ônibus, escola, posto de saúde, delegacia, supermercado, banco, restaurante, estacionamento público, farmácia.
+
+Informações importantes:
+1) O preço anunciado corresponde ao valor do aluguel mensal líquido e é válido para os pagamentos realizados até o vencimento. A título de análise e em contrato, ao valor do aluguel líquido é acrescido 10%, correspondente à perda do desconto de pontualidade, quando o pagamento ocorre após o vencimento;
+2) Os valores de taxas condominiais podem sofrer alteração e devem ser confirmados pelo candidato à locação junto à administração do condomínio;
+3) O IPTU é cobrado do locatário e será calculado proporcionalmente ao período de uso do imóvel;
+4) A contratação do seguro incêndio é obrigatória e cobrada no início da vigência e a cada aniversário contratual. Consulte condições junto à imobiliária;
+5) Antes de se deslocar até a imobiliária, certifique-se de que as chaves não estão emprestadas;
+6) Verificar previamente se o proprietário do imóvel aceita animais de estimação. Esta informação virá em contrato, estando o inquilino sujeito à penalizações em caso de descumprimento do acordado.
+
+Qualquer dúvida estamos a disposição também em nosso whatsapp (61) 3031-2200.</description>
+    <price>9000.00 BRL</price>
+    <address format="simple">
+      <component name="addr1">casa 5</component>
+      <component name="city">Samambaia</component>
+      <component name="region">DF</component>
+      <component name="postal_code">72310210</component>
+      <component name="country">Brasil</component>
+    </address>
+    <neighborhood>Samambaia</neighborhood>
+    <num_beds>5</num_beds>
+    <num_baths>5</num_baths>
+    <product_tags>Casa</product_tags>
+    <product_tags>for_rent</product_tags>
+    <product_tags>5 quartos</product_tags>
+  </listing>
+  <listing>
+    <image>
       <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/54476/i1613285_54476687a2e1e20693.jpg</url>
     </image>
     <image>
@@ -100386,84 +100542,6 @@ Ligue agora e agende sua visita!</description>
     <product_tags>Casa</product_tags>
     <product_tags>for_sale_by_agent</product_tags>
     <product_tags>4 quartos</product_tags>
-  </listing>
-  <listing>
-    <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/23820/iv9v7n_2382067c0e63718914.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/23820/ij2i6a_2382067c0e63727d78.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/23820/ix3f8s_2382067c0e63708a33.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/23820/ib2s5r_2382067c0e637244e3.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/23820/ia8w4n_2382067c0e6370feff.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/23820/ix3f8d_2382067c0e6370d824.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/23820/id0c6q_2382067c0e63727162.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/23820/ib1n6k_2382067c0e6372348c.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/23820/ic2n7i_2382067c0e6373ffb4.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/23820/im3p0y_2382067c0e6371dd3e.jpg</url>
-    </image>
-    <home_listing_id>TH23820</home_listing_id>
-    <availability>for_rent</availability>
-    <listing_type>for_rent</listing_type>
-    <property_type>apartment</property_type>
-    <url>https://thaisimobiliaria.com.br/imovel/TH23820</url>
-    <name>Rua Copaiba Águas Claras - Res. Rosely Gonçalves, Apartamento 02 quartos, 56m². Agende sua visita!</name>
-    <description>Rua Copaiba Águas Claras - Res. Rosely Gonçalves, Apartamento 02 quartos, 56m². Agende sua visita!  
-
-Imóvel composto por sala com armário e persiana, 02 quartos com armários e persiana, banheiro social com armário, espelho e box em vidro temperado, cozinha com armários, filtro e bancada, área de serviço com armário.
-
- - 01 VAGA DE GARAGEM coberta 
- - Aceita Pet
-
-Condomínio possui elevador, playground, academia, salão de festas, guarita com segurança, segurança/portaria 24h , cftv, bicicletário, sala de jogos, espaço gourmet, sala de reunião
-
- Próximo ao comércio local, ponto de ônibus, escola, hospital, supermercado, restaurante, estacionamento público, farmácia, delegacia. 
- 
-Informações importantes: 
- 
-1) O preço anunciado corresponde ao valor do aluguel mensal líquido e é válido para os pagamentos realizados até o vencimento. A título de análise e em contrato, ao valor do aluguel líquido é acrescido 10%, correspondente à perda do desconto de pontualidade, quando o pagamento ocorre após o vencimento; 
- 
-2) Os valores de taxas condominiais podem sofrer alteração e devem ser confirmados pelo candidato à locação junto à administração do condomínio; 
- 
-3) O IPTU é cobrado do locatário e será calculado proporcionalmente ao período de uso do imóvel; 
- 
-4) A contratação do seguro incêndio é obrigatória e cobrada no início da vigência e a cada aniversário contratual. Consulte condições junto à imobiliária; 
- 
-5) Antes de se deslocar até a imobiliária, certifique-se de que as chaves não estão emprestadas; 
- 
-6) Verificar previamente se o proprietário do imóvel aceita animais de estimação. Esta informação virá em contrato, estando o inquilino sujeito à penalizações em caso de descumprimento do acordado. 
- 
-Qualquer dúvida estamos a disposição também em nosso whatsapp (61) 3031-2200.</description>
-    <price>2450.00 BRL</price>
-    <address format="simple">
-      <component name="addr1">Apto 1212</component>
-      <component name="city">Águas Claras</component>
-      <component name="region">DF</component>
-      <component name="postal_code">71919540</component>
-      <component name="country">Brasil</component>
-    </address>
-    <neighborhood>Águas Claras</neighborhood>
-    <num_beds>2</num_beds>
-    <num_baths>1</num_baths>
-    <product_tags>Apartamento</product_tags>
-    <product_tags>for_rent</product_tags>
-    <product_tags>2 quartos</product_tags>
   </listing>
   <listing>
     <image>
@@ -110399,82 +110477,6 @@ Qualquer dúvida estamos a disposição também em nosso WhatsApp (61) 3031-2200
     <product_tags>Apartamento</product_tags>
     <product_tags>for_rent</product_tags>
     <product_tags>1 quartos</product_tags>
-  </listing>
-  <listing>
-    <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/4337/it5a1y_433767c0bd3a0b817.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/4337/id0j6k_433767c0bd3a0d325.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/4337/ig4w9u_433767c0bd3a2904a.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/4337/is8v2e_433767c0bd3a1a7ac.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/4337/iy5r8z_433767c0bd3a1237b.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/4337/it1p0d_433767c0bd3a0e57f.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/4337/io7i9x_433767c0bd3a08c15.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/4337/iu9u8d_433767c0bd3a1c073.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/4337/iv4k5k_433767c0bd3a34113.jpg</url>
-    </image>
-    <image>
-      <url>https://cdn.vistahost.com.br/thaisred/vista.imobi/fotos/4337/id9d4o_433767c0bd3a1a6d5.jpg</url>
-    </image>
-    <home_listing_id>TH4337</home_listing_id>
-    <availability>for_rent</availability>
-    <listing_type>for_rent</listing_type>
-    <property_type>house</property_type>
-    <url>https://thaisimobiliaria.com.br/imovel/TH4337</url>
-    <name>Qe 15 Guará, Casa 02 quartos, 200m². Agende sua visita!</name>
-    <description>Qe 15 Guará, Casa 02 quartos, 200m². Agende sua visita!  
-
-Imóvel composto por sala ampla, 03 quartos sendo 01 suíte, banheiro social com box em acrílico, cozinha com armários e mesa de canto retrátil, área de serviço externa, piso em cerâmica.
-
- - 01 VAGA DE GARAGEM 
- - Aceita Pet
-
-Próximo ao comércio local, ponto de ônibus, escola, hospital, supermercado, restaurante, estacionamento público, farmácia, delegacia. 
- 
-Informações importantes: 
- 
-1) O preço anunciado corresponde ao valor do aluguel mensal líquido e é válido para os pagamentos realizados até o vencimento. A título de análise e em contrato, ao valor do aluguel líquido é acrescido 10%, correspondente à perda do desconto de pontualidade, quando o pagamento ocorre após o vencimento; 
- 
-2) O valor de condomínio informado no anúncio refere-se à taxa condominial ordinária e poderá sofrer alterações, devendo o candidato à locação confirmar o valor atualizado junto à administração do condomínio; 
- 
-3) O IPTU é cobrado do locatário e será calculado proporcionalmente ao período de uso do imóvel; 
- 
-4) A contratação do seguro incêndio é obrigatória e cobrada no início da vigência e a cada aniversário contratual. Consulte condições junto à imobiliária; 
- 
-5) Antes de se deslocar até a imobiliária, certifique-se de que as chaves não estão emprestadas; 
- 
-6) Verificar previamente se o proprietário do imóvel aceita animais de estimação. Esta informação virá em contrato, estando o inquilino sujeito à penalizações em caso de descumprimento do acordado. 
- 
-Qualquer dúvida estamos a disposição também em nosso Whatsapp (61) 3031-2200</description>
-    <price>3500.00 BRL</price>
-    <address format="simple">
-      <component name="addr1">Casa 02</component>
-      <component name="city">Guará</component>
-      <component name="region">DF</component>
-      <component name="postal_code">71050111</component>
-      <component name="country">Brasil</component>
-    </address>
-    <neighborhood>Guará</neighborhood>
-    <num_beds>3</num_beds>
-    <num_baths>1</num_baths>
-    <product_tags>Casa</product_tags>
-    <product_tags>for_rent</product_tags>
-    <product_tags>3 quartos</product_tags>
   </listing>
   <listing>
     <image>
